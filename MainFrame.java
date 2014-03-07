@@ -2,10 +2,11 @@ import java.awt.*;
 import javax.swing.*;
 
 //Second Commit
-//lifegame3
+//lifegame2
 
-
+//lifegame2 changed
 //lifegame3 changed
+>>>>>>> c4bd4890c8ac8115d78be35673beee8819b853e3
 public class MainFrame extends JFrame {
     public MainFrame() {
         setTitle("LifeGame");
