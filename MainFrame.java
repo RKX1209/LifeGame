@@ -2,6 +2,7 @@ import java.awt.*;
 import javax.swing.*;
 
 //Second Commit
+//hoge
 
 public class MainFrame extends JFrame {
     public MainFrame() {
