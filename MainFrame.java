@@ -1,6 +1,8 @@
 import java.awt.*;
 import javax.swing.*;
 
+//Second Commit
+
 public class MainFrame extends JFrame {
     public MainFrame() {
         setTitle("LifeGame");
